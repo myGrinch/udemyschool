@@ -1,0 +1,13 @@
+.holder {
+    padding: 10px;
+    margin: 0 0 15px;
+    border-bottom: 1px solid #888;
+}
+.holder p {
+    margin: 0;
+}
+
+.holder p strong {
+    font-size: 16px;
+    color: #f442d9;
+}
